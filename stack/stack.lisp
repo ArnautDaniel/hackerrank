@@ -1,3 +1,5 @@
+;;; J.Lucas 2022
+
 (declaim (optimize (speed 3) (debug 0) (safety 0)))
 
 ;;;This will only work before the integer limit is hit.  Which on sbcl might as well be infinte.
